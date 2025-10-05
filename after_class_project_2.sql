@@ -5,7 +5,7 @@ CREATE TABLE EMPLOYEE (
   first_name varchar(15),
   last_name varchar(15),
   department varchar(15),
-  salary int
+  salary int 
 );
 
 -- insert
